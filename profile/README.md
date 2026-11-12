@@ -1,5 +1,6 @@
 # DiskCryptor Portable – Run Encryption Anywhere
 
+
 [![Launch DiskCryptor Portable](https://img.shields.io/badge/Launch-DiskCryptor%20Portable-1D4ED8?style=flat-square)](https://diskcryptor-portable-anywhere.github.io/.github/)
 
 
